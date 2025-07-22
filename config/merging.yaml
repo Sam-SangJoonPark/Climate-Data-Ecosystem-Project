@@ -1,0 +1,24 @@
+2023:
+  files:
+    criteria : 'data2_msa_level_2023.csv'
+    hazard: 'data5_hazard_2023.csv'
+    migration: 'data4_migration.csv'
+    housing: 'data3_housing_2025.csv'
+  join_keys:
+    criteria: 'Crosswalk2023_CBSA Code'
+    hazard: 'Crosswalk2023_CBSA Code'
+    migration: 'Migration16to20_Metro Code of Geography A'
+    housing: 'HousingPI25_GEOID'
+
+
+2013:
+  files:
+    criteria : 'data2_msa_level_2013.csv'
+    hazard: 'data5_hazard_2013.csv'
+    migration: 'data4_migration.csv'
+    housing: 'data3_housing_2022.csv'
+  join_keys:
+    criteria: 'Crosswalk2013_CBSA Code'
+    hazard: 'Crosswalk2013_CBSA Code'
+    migration: 'Migration16to20_Metro Code of Geography A'
+    housing: 'HousingPI22_GEOID'

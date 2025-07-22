@@ -1,0 +1,394 @@
+Crosswalk2023_CBSA Code,Crosswalk2023_CBSA Title,Crosswalk2023_State Name
+10180,"Abilene, TX",Texas
+10380,"Aguadilla, PR",Puerto Rico
+10420,"Akron, OH",Ohio
+10500,"Albany, GA",Georgia
+10540,"Albany, OR",Oregon
+10580,"Albany-Schenectady-Troy, NY",New York
+10740,"Albuquerque, NM",New Mexico
+10780,"Alexandria, LA",Louisiana
+10900,"Allentown-Bethlehem-Easton, PA-NJ","New Jersey, Pennsylvania"
+11020,"Altoona, PA",Pennsylvania
+11100,"Amarillo, TX",Texas
+11180,"Ames, IA",Iowa
+11200,"Amherst Town-Northampton, MA",Massachusetts
+11260,"Anchorage, AK",Alaska
+11460,"Ann Arbor, MI",Michigan
+11500,"Anniston-Oxford, AL",Alabama
+11540,"Appleton, WI",Wisconsin
+11640,"Arecibo, PR",Puerto Rico
+11700,"Asheville, NC",North Carolina
+12020,"Athens-Clarke County, GA",Georgia
+12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia
+12100,"Atlantic City-Hammonton, NJ",New Jersey
+12220,"Auburn-Opelika, AL",Alabama
+12260,"Augusta-Richmond County, GA-SC","Georgia, South Carolina"
+12420,"Austin-Round Rock-San Marcos, TX",Texas
+12540,"Bakersfield-Delano, CA",California
+12580,"Baltimore-Columbia-Towson, MD",Maryland
+12620,"Bangor, ME",Maine
+12700,"Barnstable Town, MA",Massachusetts
+12940,"Baton Rouge, LA",Louisiana
+12980,"Battle Creek, MI",Michigan
+13020,"Bay City, MI",Michigan
+13140,"Beaumont-Port Arthur, TX",Texas
+13220,"Beckley, WV",West Virginia
+13380,"Bellingham, WA",Washington
+13460,"Bend, OR",Oregon
+13740,"Billings, MT",Montana
+13780,"Binghamton, NY",New York
+13820,"Birmingham, AL",Alabama
+13900,"Bismarck, ND",North Dakota
+13980,"Blacksburg-Christiansburg-Radford, VA",Virginia
+14010,"Bloomington, IL",Illinois
+14020,"Bloomington, IN",Indiana
+14260,"Boise City, ID",Idaho
+14460,"Boston-Cambridge-Newton, MA-NH","Massachusetts, New Hampshire"
+14500,"Boulder, CO",Colorado
+14540,"Bowling Green, KY",Kentucky
+14580,"Bozeman, MT",Montana
+14740,"Bremerton-Silverdale-Port Orchard, WA",Washington
+14860,"Bridgeport-Stamford-Danbury, CT",Connecticut
+15180,"Brownsville-Harlingen, TX",Texas
+15260,"Brunswick-St. Simons, GA",Georgia
+15380,"Buffalo-Cheektowaga, NY",New York
+15500,"Burlington, NC",North Carolina
+15540,"Burlington-South Burlington, VT",Vermont
+15940,"Canton-Massillon, OH",Ohio
+15980,"Cape Coral-Fort Myers, FL",Florida
+16020,"Cape Girardeau, MO-IL","Illinois, Missouri"
+16180,"Carson City, NV",Nevada
+16220,"Casper, WY",Wyoming
+16300,"Cedar Rapids, IA",Iowa
+16540,"Chambersburg, PA",Pennsylvania
+16580,"Champaign-Urbana, IL",Illinois
+16620,"Charleston, WV",West Virginia
+16700,"Charleston-North Charleston, SC",South Carolina
+16740,"Charlotte-Concord-Gastonia, NC-SC","North Carolina, South Carolina"
+16820,"Charlottesville, VA",Virginia
+16860,"Chattanooga, TN-GA","Georgia, Tennessee"
+16940,"Cheyenne, WY",Wyoming
+16980,"Chicago-Naperville-Elgin, IL-IN","Illinois, Indiana"
+17020,"Chico, CA",California
+17140,"Cincinnati, OH-KY-IN","Indiana, Kentucky, Ohio"
+17300,"Clarksville, TN-KY","Kentucky, Tennessee"
+17410,"Cleveland, OH",Ohio
+17420,"Cleveland, TN",Tennessee
+17660,"Coeur d'Alene, ID",Idaho
+17780,"College Station-Bryan, TX",Texas
+17820,"Colorado Springs, CO",Colorado
+17860,"Columbia, MO",Missouri
+17900,"Columbia, SC",South Carolina
+17980,"Columbus, GA-AL","Alabama, Georgia"
+18020,"Columbus, IN",Indiana
+18140,"Columbus, OH",Ohio
+18580,"Corpus Christi, TX",Texas
+18700,"Corvallis, OR",Oregon
+18880,"Crestview-Fort Walton Beach-Destin, FL",Florida
+19100,"Dallas-Fort Worth-Arlington, TX",Texas
+19140,"Dalton, GA",Georgia
+19300,"Daphne-Fairhope-Foley, AL",Alabama
+19340,"Davenport-Moline-Rock Island, IA-IL","Illinois, Iowa"
+19430,"Dayton-Kettering-Beavercreek, OH",Ohio
+19460,"Decatur, AL",Alabama
+19500,"Decatur, IL",Illinois
+19660,"Deltona-Daytona Beach-Ormond Beach, FL",Florida
+19740,"Denver-Aurora-Centennial, CO",Colorado
+19780,"Des Moines-West Des Moines, IA",Iowa
+19820,"Detroit-Warren-Dearborn, MI",Michigan
+20020,"Dothan, AL",Alabama
+20100,"Dover, DE",Delaware
+20220,"Dubuque, IA",Iowa
+20260,"Duluth, MN-WI","Minnesota, Wisconsin"
+20500,"Durham-Chapel Hill, NC",North Carolina
+20580,"Eagle Pass, TX",Texas
+20740,"Eau Claire, WI",Wisconsin
+20940,"El Centro, CA",California
+21060,"Elizabethtown, KY",Kentucky
+21140,"Elkhart-Goshen, IN",Indiana
+21300,"Elmira, NY",New York
+21340,"El Paso, TX",Texas
+21420,"Enid, OK",Oklahoma
+21500,"Erie, PA",Pennsylvania
+21660,"Eugene-Springfield, OR",Oregon
+21780,"Evansville, IN",Indiana
+21820,"Fairbanks-College, AK",Alaska
+22020,"Fargo, ND-MN","Minnesota, North Dakota"
+22140,"Farmington, NM",New Mexico
+22180,"Fayetteville, NC",North Carolina
+22220,"Fayetteville-Springdale-Rogers, AR",Arkansas
+22380,"Flagstaff, AZ",Arizona
+22420,"Flint, MI",Michigan
+22500,"Florence, SC",South Carolina
+22520,"Florence-Muscle Shoals, AL",Alabama
+22540,"Fond du Lac, WI",Wisconsin
+22660,"Fort Collins-Loveland, CO",Colorado
+22900,"Fort Smith, AR-OK","Arkansas, Oklahoma"
+23060,"Fort Wayne, IN",Indiana
+23420,"Fresno, CA",California
+23460,"Gadsden, AL",Alabama
+23540,"Gainesville, FL",Florida
+23580,"Gainesville, GA",Georgia
+23900,"Gettysburg, PA",Pennsylvania
+24020,"Glens Falls, NY",New York
+24140,"Goldsboro, NC",North Carolina
+24220,"Grand Forks, ND-MN","Minnesota, North Dakota"
+24260,"Grand Island, NE",Nebraska
+24300,"Grand Junction, CO",Colorado
+24340,"Grand Rapids-Wyoming-Kentwood, MI",Michigan
+24420,"Grants Pass, OR",Oregon
+24500,"Great Falls, MT",Montana
+24540,"Greeley, CO",Colorado
+24580,"Green Bay, WI",Wisconsin
+24660,"Greensboro-High Point, NC",North Carolina
+24780,"Greenville, NC",North Carolina
+24860,"Greenville-Anderson-Greer, SC",South Carolina
+25020,"Guayama, PR",Puerto Rico
+25060,"Gulfport-Biloxi, MS",Mississippi
+25180,"Hagerstown-Martinsburg, MD-WV","Maryland, West Virginia"
+25220,"Hammond, LA",Louisiana
+25260,"Hanford-Corcoran, CA",California
+25420,"Harrisburg-Carlisle, PA",Pennsylvania
+25500,"Harrisonburg, VA",Virginia
+25540,"Hartford-West Hartford-East Hartford, CT",Connecticut
+25620,"Hattiesburg, MS",Mississippi
+25740,"Helena, MT",Montana
+25860,"Hickory-Lenoir-Morganton, NC",North Carolina
+25940,"Hilton Head Island-Bluffton-Port Royal, SC",South Carolina
+25980,"Hinesville, GA",Georgia
+26140,"Homosassa Springs, FL",Florida
+26300,"Hot Springs, AR",Arkansas
+26380,"Houma-Bayou Cane-Thibodaux, LA",Louisiana
+26420,"Houston-Pasadena-The Woodlands, TX",Texas
+26580,"Huntington-Ashland, WV-KY-OH","Kentucky, Ohio, West Virginia"
+26620,"Huntsville, AL",Alabama
+26820,"Idaho Falls, ID",Idaho
+26900,"Indianapolis-Carmel-Greenwood, IN",Indiana
+26980,"Iowa City, IA",Iowa
+27060,"Ithaca, NY",New York
+27100,"Jackson, MI",Michigan
+27140,"Jackson, MS",Mississippi
+27180,"Jackson, TN",Tennessee
+27260,"Jacksonville, FL",Florida
+27340,"Jacksonville, NC",North Carolina
+27500,"Janesville-Beloit, WI",Wisconsin
+27620,"Jefferson City, MO",Missouri
+27740,"Johnson City, TN",Tennessee
+27780,"Johnstown, PA",Pennsylvania
+27860,"Jonesboro, AR",Arkansas
+27900,"Joplin, MO-KS","Kansas, Missouri"
+27980,"Kahului-Wailuku, HI",Hawaii
+28020,"Kalamazoo-Portage, MI",Michigan
+28100,"Kankakee, IL",Illinois
+28140,"Kansas City, MO-KS","Kansas, Missouri"
+28420,"Kennewick-Richland, WA",Washington
+28450,"Kenosha, WI",Wisconsin
+28660,"Killeen-Temple, TX",Texas
+28700,"Kingsport-Bristol, TN-VA","Tennessee, Virginia"
+28740,"Kingston, NY",New York
+28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",New York
+28940,"Knoxville, TN",Tennessee
+29020,"Kokomo, IN",Indiana
+29100,"La Crosse-Onalaska, WI-MN","Minnesota, Wisconsin"
+29180,"Lafayette, LA",Louisiana
+29200,"Lafayette-West Lafayette, IN",Indiana
+29340,"Lake Charles, LA",Louisiana
+29420,"Lake Havasu City-Kingman, AZ",Arizona
+29460,"Lakeland-Winter Haven, FL",Florida
+29540,"Lancaster, PA",Pennsylvania
+29620,"Lansing-East Lansing, MI",Michigan
+29700,"Laredo, TX",Texas
+29740,"Las Cruces, NM",New Mexico
+29820,"Las Vegas-Henderson-North Las Vegas, NV",Nevada
+29940,"Lawrence, KS",Kansas
+30020,"Lawton, OK",Oklahoma
+30140,"Lebanon, PA",Pennsylvania
+30300,"Lewiston, ID-WA","Idaho, Washington"
+30340,"Lewiston-Auburn, ME",Maine
+30460,"Lexington-Fayette, KY",Kentucky
+30500,"Lexington Park, MD",Maryland
+30620,"Lima, OH",Ohio
+30700,"Lincoln, NE",Nebraska
+30780,"Little Rock-North Little Rock-Conway, AR",Arkansas
+30860,"Logan, UT-ID","Idaho, Utah"
+30980,"Longview, TX",Texas
+31020,"Longview-Kelso, WA",Washington
+31080,"Los Angeles-Long Beach-Anaheim, CA",California
+31140,"Louisville/Jefferson County, KY-IN","Indiana, Kentucky"
+31180,"Lubbock, TX",Texas
+31340,"Lynchburg, VA",Virginia
+31420,"Macon-Bibb County, GA",Georgia
+31540,"Madison, WI",Wisconsin
+31700,"Manchester-Nashua, NH",New Hampshire
+31740,"Manhattan, KS",Kansas
+31860,"Mankato, MN",Minnesota
+31900,"Mansfield, OH",Ohio
+32420,"Mayagüez, PR",Puerto Rico
+32580,"McAllen-Edinburg-Mission, TX",Texas
+32780,"Medford, OR",Oregon
+32820,"Memphis, TN-MS-AR","Arkansas, Mississippi, Tennessee"
+32900,"Merced, CA",California
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Florida
+33140,"Michigan City-La Porte, IN",Indiana
+33220,"Midland, MI",Michigan
+33260,"Midland, TX",Texas
+33340,"Milwaukee-Waukesha, WI",Wisconsin
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI","Minnesota, Wisconsin"
+33500,"Minot, ND",North Dakota
+33540,"Missoula, MT",Montana
+33660,"Mobile, AL",Alabama
+33700,"Modesto, CA",California
+33740,"Monroe, LA",Louisiana
+33780,"Monroe, MI",Michigan
+33860,"Montgomery, AL",Alabama
+34060,"Morgantown, WV",West Virginia
+34100,"Morristown, TN",Tennessee
+34580,"Mount Vernon-Anacortes, WA",Washington
+34620,"Muncie, IN",Indiana
+34740,"Muskegon-Norton Shores, MI",Michigan
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",South Carolina
+34900,"Napa, CA",California
+34940,"Naples-Marco Island, FL",Florida
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee
+35300,"New Haven, CT",Connecticut
+35380,"New Orleans-Metairie, LA",Louisiana
+35620,"New York-Newark-Jersey City, NY-NJ","New Jersey, New York"
+35660,"Niles, MI",Michigan
+35840,"North Port-Bradenton-Sarasota, FL",Florida
+35980,"Norwich-New London-Willimantic, CT",Connecticut
+36100,"Ocala, FL",Florida
+36220,"Odessa, TX",Texas
+36260,"Ogden, UT",Utah
+36420,"Oklahoma City, OK",Oklahoma
+36500,"Olympia-Lacey-Tumwater, WA",Washington
+36540,"Omaha, NE-IA","Iowa, Nebraska"
+36740,"Orlando-Kissimmee-Sanford, FL",Florida
+36780,"Oshkosh-Neenah, WI",Wisconsin
+36980,"Owensboro, KY",Kentucky
+37100,"Oxnard-Thousand Oaks-Ventura, CA",California
+37140,"Paducah, KY-IL","Illinois, Kentucky"
+37340,"Palm Bay-Melbourne-Titusville, FL",Florida
+37460,"Panama City-Panama City Beach, FL",Florida
+37620,"Parkersburg-Vienna, WV",West Virginia
+37860,"Pensacola-Ferry Pass-Brent, FL",Florida
+37900,"Peoria, IL",Illinois
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Delaware, Maryland, New Jersey, Pennsylvania"
+38060,"Phoenix-Mesa-Chandler, AZ",Arizona
+38240,"Pinehurst-Southern Pines, NC",North Carolina
+38300,"Pittsburgh, PA",Pennsylvania
+38340,"Pittsfield, MA",Massachusetts
+38540,"Pocatello, ID",Idaho
+38660,"Ponce, PR",Puerto Rico
+38860,"Portland-South Portland, ME",Maine
+38900,"Portland-Vancouver-Hillsboro, OR-WA","Oregon, Washington"
+38940,"Port St. Lucie, FL",Florida
+39150,"Prescott Valley-Prescott, AZ",Arizona
+39300,"Providence-Warwick, RI-MA","Massachusetts, Rhode Island"
+39340,"Provo-Orem-Lehi, UT",Utah
+39380,"Pueblo, CO",Colorado
+39460,"Punta Gorda, FL",Florida
+39540,"Racine-Mount Pleasant, WI",Wisconsin
+39580,"Raleigh-Cary, NC",North Carolina
+39660,"Rapid City, SD",South Dakota
+39740,"Reading, PA",Pennsylvania
+39820,"Redding, CA",California
+39900,"Reno, NV",Nevada
+40060,"Richmond, VA",Virginia
+40140,"Riverside-San Bernardino-Ontario, CA",California
+40220,"Roanoke, VA",Virginia
+40340,"Rochester, MN",Minnesota
+40380,"Rochester, NY",New York
+40420,"Rockford, IL",Illinois
+40580,"Rocky Mount, NC",North Carolina
+40660,"Rome, GA",Georgia
+40900,"Sacramento-Roseville-Folsom, CA",California
+40980,"Saginaw, MI",Michigan
+41060,"St. Cloud, MN",Minnesota
+41100,"St. George, UT",Utah
+41140,"St. Joseph, MO-KS","Kansas, Missouri"
+41180,"St. Louis, MO-IL","Illinois, Missouri"
+41420,"Salem, OR",Oregon
+41500,"Salinas, CA",California
+41540,"Salisbury, MD",Maryland
+41620,"Salt Lake City-Murray, UT",Utah
+41660,"San Angelo, TX",Texas
+41700,"San Antonio-New Braunfels, TX",Texas
+41740,"San Diego-Chula Vista-Carlsbad, CA",California
+41780,"Sandusky, OH",Ohio
+41860,"San Francisco-Oakland-Fremont, CA",California
+41940,"San Jose-Sunnyvale-Santa Clara, CA",California
+41980,"San Juan-Bayamón-Caguas, PR",Puerto Rico
+42020,"San Luis Obispo-Paso Robles, CA",California
+42100,"Santa Cruz-Watsonville, CA",California
+42140,"Santa Fe, NM",New Mexico
+42200,"Santa Maria-Santa Barbara, CA",California
+42220,"Santa Rosa-Petaluma, CA",California
+42340,"Savannah, GA",Georgia
+42540,"Scranton--Wilkes-Barre, PA",Pennsylvania
+42660,"Seattle-Tacoma-Bellevue, WA",Washington
+42680,"Sebastian-Vero Beach-West Vero Corridor, FL",Florida
+42700,"Sebring, FL",Florida
+43100,"Sheboygan, WI",Wisconsin
+43300,"Sherman-Denison, TX",Texas
+43340,"Shreveport-Bossier City, LA",Louisiana
+43420,"Sierra Vista-Douglas, AZ",Arizona
+43580,"Sioux City, IA-NE-SD","Iowa, Nebraska, South Dakota"
+43620,"Sioux Falls, SD-MN","Minnesota, South Dakota"
+43640,"Slidell-Mandeville-Covington, LA",Louisiana
+43780,"South Bend-Mishawaka, IN-MI","Indiana, Michigan"
+43900,"Spartanburg, SC",South Carolina
+44060,"Spokane-Spokane Valley, WA",Washington
+44100,"Springfield, IL",Illinois
+44140,"Springfield, MA",Massachusetts
+44180,"Springfield, MO",Missouri
+44220,"Springfield, OH",Ohio
+44300,"State College, PA",Pennsylvania
+44420,"Staunton-Stuarts Draft, VA",Virginia
+44700,"Stockton-Lodi, CA",California
+44940,"Sumter, SC",South Carolina
+45060,"Syracuse, NY",New York
+45220,"Tallahassee, FL",Florida
+45300,"Tampa-St. Petersburg-Clearwater, FL",Florida
+45460,"Terre Haute, IN",Indiana
+45500,"Texarkana, TX-AR","Arkansas, Texas"
+45780,"Toledo, OH",Ohio
+45820,"Topeka, KS",Kansas
+45900,"Traverse City, MI",Michigan
+45940,"Trenton-Princeton, NJ",New Jersey
+46060,"Tucson, AZ",Arizona
+46140,"Tulsa, OK",Oklahoma
+46220,"Tuscaloosa, AL",Alabama
+46300,"Twin Falls, ID",Idaho
+46340,"Tyler, TX",Texas
+46520,"Urban Honolulu, HI",Hawaii
+46540,"Utica-Rome, NY",New York
+46660,"Valdosta, GA",Georgia
+46700,"Vallejo, CA",California
+47020,"Victoria, TX",Texas
+47220,"Vineland, NJ",New Jersey
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC","North Carolina, Virginia"
+47300,"Visalia, CA",California
+47380,"Waco, TX",Texas
+47460,"Walla Walla, WA",Washington
+47580,"Warner Robins, GA",Georgia
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV","District of Columbia, Maryland, Virginia, West Virginia"
+47930,"Waterbury-Shelton, CT",Connecticut
+47940,"Waterloo-Cedar Falls, IA",Iowa
+48060,"Watertown-Fort Drum, NY",New York
+48140,"Wausau, WI",Wisconsin
+48260,"Weirton-Steubenville, WV-OH","Ohio, West Virginia"
+48300,"Wenatchee-East Wenatchee, WA",Washington
+48540,"Wheeling, WV-OH","Ohio, West Virginia"
+48620,"Wichita, KS",Kansas
+48660,"Wichita Falls, TX",Texas
+48680,"Wildwood-The Villages, FL",Florida
+48700,"Williamsport, PA",Pennsylvania
+48900,"Wilmington, NC",North Carolina
+49020,"Winchester, VA-WV","Virginia, West Virginia"
+49180,"Winston-Salem, NC",North Carolina
+49340,"Worcester, MA",Massachusetts
+49420,"Yakima, WA",Washington
+49620,"York-Hanover, PA",Pennsylvania
+49660,"Youngstown-Warren, OH",Ohio
+49700,"Yuba City, CA",California
+49740,"Yuma, AZ",Arizona

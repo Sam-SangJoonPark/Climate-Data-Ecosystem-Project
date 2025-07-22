@@ -1,0 +1,72 @@
+geo_ref:
+  2022:
+    prefix: 'GeoRef'
+
+  2017:
+    prefix: 'notyet'
+
+
+crosswalk:
+  2023:
+    prefix: 'Crosswalk2023'
+    agg_method: 'concat'
+    file_name: 'list1_2023.xlsx'
+    cbsa_code: 'Crosswalk2023_CBSA Code'
+    cbsa_title: 'Crosswalk2023_CBSA Title'
+    cbsa_state: 'Crosswalk2023_State Name'
+
+  2013:
+    prefix: 'Crosswalk2013'
+    agg_method: 'concat'
+    file_name: 'list1.xls'
+    cbsa_code: 'Crosswalk2013_CBSA Code'
+    cbsa_title: 'Crosswalk2013_CBSA Title'
+    cbsa_state: 'Crosswalk2013_State Name'
+
+
+housing:
+  2025:
+  # different data source
+    prefix: 'HousingPI25'
+    file_name: "Home Price-to-Income Ratios Soaring - Harvard JCHS - State of the Nation's Housing 2025 - Sheet1.csv"
+
+  2022:
+  # different data source
+    prefix: 'HousingPI22'
+    file_name: "PI Ratio 2022 Update - Data Rounded.csv"
+
+
+migration:
+  prefix: 'Migration16to20'
+  exclude_region: ['AFR--', 'ASI--', 'CAM--', 'CAR--', 'EUR--', 'ISL--', 'NAM--', 'OCE--', 'SAM--']
+
+
+hazard:
+  2023:
+    file_path: '../../data/interim/data2_county_level_2023.csv'
+    prefix: 'NRI'
+    fips_key_col: 'Crosswalk2023_FIPS_Key'
+    MSA_groupby_col: 'Crosswalk2023_CBSA Code'
+    population_loss_equivalent: 'EALPE'
+    building_loss_equivalent: 'EALB'
+    population_exposure: 'EXPPE'
+    building_exposure: 'EXPB'
+    total_value_cols: ['BUILDVALUE', 'POPULATION']
+
+  2013:
+    file_path: '../../data/interim/data2_county_level_2013.csv'
+    prefix: 'NRI'
+    fips_key_col: 'Crosswalk2013_FIPS_Key'
+    MSA_groupby_col: 'Crosswalk2013_CBSA Code'
+    population_loss_equivalent: 'EALPE'
+    building_loss_equivalent: 'EALB'
+    population_exposure: 'EXPPE'
+    building_exposure: 'EXPB'
+    total_value_cols: ['BUILDVALUE', 'POPULATION']
+
+
+
+
+  
+  
+  
