@@ -1,0 +1,13 @@
+02_correlations:
+  data:
+    path: '../../data/final/final_data_2023.csv'
+
+  analysis_variables:
+    msa_infos: ['Crosswalk2023_CBSA Code']
+    index: ["loss_per_capita_pe", "loss_per_capita_bldg"]    
+    migration_cols: ["Inflow_rate", "Outflow_rate", "Migration16to20_A_Outflow_Estimate"]
+    housing_cols: ["HousingPI25_2000", "HousingPI25_2010", "HousingPI25_2020", "HousingPI25_2024"]
+    
+    params: 
+      hazard_types: 17
+      population_equivalence: 11_000_000
