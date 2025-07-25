@@ -53,6 +53,15 @@ Below is the summary of our final datset:
 
 ---
 
+## 4. Analysis Notebooks with viewer
+1. 
+2. https://nbviewer.org/github/Sam-SangJoonPark/Climate-Data-Ecosystem-Project/blob/main/notebooks/Analysis_Notebooks/02_EDA_Correlations.ipynb
+3. 
+
+
+
+--- 
+
 ## 📂 Shared Resources
 
 - [📁 Google Drive Folder](https://drive.google.com/drive/u/1/folders/1ID2MfOC9AiJU2u8YkXUyND_EySZBVepD)
